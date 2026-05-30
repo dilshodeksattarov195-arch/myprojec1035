@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usersync",
+        "uuid": 9273600,
+        "checksum": "guyx2h"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
